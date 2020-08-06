@@ -91,4 +91,4 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 ## First edit
 
-Content to first edit header title
+Replacement of text at the bottom
